@@ -1,7 +1,6 @@
 # Dynamic A Star Algorithm
-
-[![build:passing](https://img.shields.io/badge/build-passing-blueviolet.svg)](https://github.com/lkoshale/DA_STAR)
-[![build:passing](https://img.shields.io/badge/Webpage-here-brightgreen.svg)](https://lkoshale.github.io/dynamic_a_star)
+[![build:passing](https://img.shields.io/badge/Webpage-here-blueviolet.svg)](https://lkoshale.github.io/dynamic_a_star)
+[![build:passing](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/lkoshale/DA_STAR)
 
 - This repository contains elements for the [Website](https://lkoshale.github.io/dynamic_a_star)
 - C++/CUDA library of algorithm is published [here](https://github.com/lkoshale/DA_STAR) 
